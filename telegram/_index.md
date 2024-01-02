@@ -30,7 +30,7 @@ weight = 1
 * [ZXDev (Oberon)](https://t.me/zxdev)
 * [ZXDev Masters](https://t.me/zxdev_masters)
 ### ZX Games
-* [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
+*
 ### ZX hard and emulation
 * [Speccy hardware](https://t.me/speccy_hard) — Speccy hardware in russian and english
 * [Unreal Speccy Portable](https://t.me/unrealspeccypg) — Discuss USP and ZX Spectrum emulators related things
